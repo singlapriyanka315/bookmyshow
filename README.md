@@ -1,4 +1,4 @@
-# bookmyapp
+# BookMyShow Clone
 
 A new Flutter project.
 
