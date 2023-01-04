@@ -23,7 +23,35 @@ Some of basic features of app are:
 - Splash screen is also added and for icons Flutter-icons are used.
 - Without internet connectivity user can't move forward from splash screen.
 - App is responding for every action done by user.
+
+https://user-images.githubusercontent.com/66158960/210514921-3c60cb5e-3948-4613-9c1d-467e91b41477.mov
+
+
+
+https://user-images.githubusercontent.com/66158960/210515029-21c0a24c-95f6-403f-a2eb-e865f1a45a9b.mov
+
+
+https://user-images.githubusercontent.com/66158960/210515129-6eb3d562-4844-4fd4-b4f4-ed154895313a.mov
+
+
+
+https://user-images.githubusercontent.com/66158960/210515049-a7930b52-4956-49cd-9b84-11e8b30da7d6.mov
+
+
+
+https://user-images.githubusercontent.com/66158960/210515069-ed8be08d-86b3-4a89-bda5-62749a4b91d2.mov
+
+
+https://user-images.githubusercontent.com/66158960/210515096-9844dbb7-3f4b-4645-9a8a-f06a0a1392e8.mov
+
+
+
+
 - Lastly, errors are handled in case of no internet connection or any other error.
+
+
+https://user-images.githubusercontent.com/66158960/210515006-15ce530f-cf09-4c35-8b5f-99182f681913.mov
+
 
 
 For help getting started with Flutter development, view the
