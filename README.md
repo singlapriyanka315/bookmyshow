@@ -23,7 +23,7 @@ Some of basic features of app are:
 - Splash screen is also added and for icons Flutter-icons are used.
 - Without internet connectivity user can't move forward from splash screen.
 - App is responding for every action done by user.
-
+- Lastly, errors are handled in case of no internet connection or any other error.
 https://user-images.githubusercontent.com/66158960/210514921-3c60cb5e-3948-4613-9c1d-467e91b41477.mov
 
 
@@ -44,10 +44,6 @@ https://user-images.githubusercontent.com/66158960/210515069-ed8be08d-86b3-4a89-
 
 https://user-images.githubusercontent.com/66158960/210515096-9844dbb7-3f4b-4645-9a8a-f06a0a1392e8.mov
 
-
-
-
-- Lastly, errors are handled in case of no internet connection or any other error.
 
 
 https://user-images.githubusercontent.com/66158960/210515006-15ce530f-cf09-4c35-8b5f-99182f681913.mov
